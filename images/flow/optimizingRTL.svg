@@ -11,7 +11,7 @@
    style="height: 512px; width: 512px;"
    version="1.1"
    id="svg8"
-   sodipodi:docname="translatingRTL.svg"
+   sodipodi:docname="optimizingRTL.svg"
    inkscape:version="0.92.4 5da689c313, 2019-01-14">
   <metadata
      id="metadata14">
@@ -40,7 +40,7 @@
      id="namedview10"
      showgrid="false"
      inkscape:zoom="1.2131875"
-     inkscape:cx="176.86515"
+     inkscape:cx="15.30727"
      inkscape:cy="247.32203"
      inkscape:window-x="67"
      inkscape:window-y="27"
@@ -64,15 +64,15 @@
        sodipodi:nodetypes="cccccccssccccccccssccccssscccccccsccccccsccccccccccccccccccccssscccccccccccccccccsscccccccccssscccccccccccsscccccccccccsssccccccacccccccc" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:21.45344925px;line-height:20;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.53633624"
-       x="228.84534"
-       y="204.81927"
+       style="font-style:normal;font-weight:normal;font-size:21.61917496px;line-height:20;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.54047936"
+       x="225.81473"
+       y="206.40149"
        id="text816"
-       transform="scale(0.83048318,1.2041183)"><tspan
+       transform="scale(0.83689859,1.1948879)"><tspan
          sodipodi:role="line"
          id="tspan814"
-         x="228.84534"
-         y="204.81927"
-         style="stroke-width:0.53633624">Translating RTL</tspan></text>
+         x="225.81473"
+         y="206.40149"
+         style="stroke-width:0.54047936">Optimizing RTL</tspan></text>
   </g>
 </svg>
