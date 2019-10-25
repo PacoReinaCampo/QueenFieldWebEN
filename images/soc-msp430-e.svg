@@ -8,12 +8,12 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.0"
-   width="299.99997pt"
+   width="600pt"
    height="300pt"
-   viewBox="0 0 299.99997 300"
+   viewBox="0 0 600 300"
    preserveAspectRatio="xMidYMid meet"
    id="svg8"
-   sodipodi:docname="pu-riscv.svg"
+   sodipodi:docname="soc-msp430.svg"
    inkscape:version="0.92.4 5da689c313, 2019-01-14">
   <defs
      id="defs12" />
@@ -30,9 +30,9 @@
      inkscape:window-height="845"
      id="namedview10"
      showgrid="false"
-     inkscape:zoom="0.31677674"
-     inkscape:cx="176.29948"
-     inkscape:cy="761.62996"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="293.28472"
+     inkscape:cy="257.86957"
      inkscape:window-x="67"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
@@ -55,7 +55,7 @@ Created by potrace 1.15, written by Peter Selinger 2001-2017
 </rdf:RDF>
 </metadata>
   <g
-     transform="matrix(0.02343937,0,0,-0.0234375,0,300)"
+     transform="matrix(0.02343937,0,0,-0.0234375,150,300)"
      id="g6"
      style="fill:#000000;stroke:none">
     <path
@@ -66,25 +66,14 @@ Created by potrace 1.15, written by Peter Selinger 2001-2017
   </g>
   <text
      xml:space="preserve"
-     style="font-style:normal;font-weight:normal;font-size:13.6298666px;line-height:23;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.3407467"
-     x="63.153946"
-     y="147.22574"
-     id="text828"
-     transform="scale(0.85907663,1.1640405)"><tspan
+     style="font-style:normal;font-weight:normal;font-size:62.19891357px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.55497253"
+     x="261.72986"
+     y="134.37076"
+     id="text824"
+     transform="scale(0.7840667,1.2754017)"><tspan
        sodipodi:role="line"
-       id="tspan826"
-       x="63.153946"
-       y="147.22574"
-       style="font-size:68.1493454px;line-height:40;fill:#ffffff;stroke-width:0.3407467">RISC-V</tspan></text>
-  <flowRoot
-     xml:space="preserve"
-     id="flowRoot830"
-     style="font-style:normal;font-weight:normal;font-size:40px;line-height:20;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-     transform="translate(0,-980)"><flowRegion
-       id="flowRegion832"><rect
-         id="rect834"
-         width="2127.6814"
-         height="612.4187"
-         x="-110.48792"
-         y="510.24042" /></flowRegion><flowPara
-       id="flowPara836" /></flowRoot></svg>
+       x="261.72986"
+       y="134.37076"
+       style="fill:#ffffff;stroke-width:1.55497253"
+       id="tspan826">MSP430</tspan></text>
+</svg>
