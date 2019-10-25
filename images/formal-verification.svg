@@ -8,9 +8,9 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.0"
-   width="225pt"
-   height="225.00006pt"
-   viewBox="0 0 225 225.00006"
+   width="299.99997pt"
+   height="300pt"
+   viewBox="0 0 299.99997 300"
    preserveAspectRatio="xMidYMid meet"
    id="svg8"
    sodipodi:docname="formal-verification.svg"
@@ -30,13 +30,13 @@
      inkscape:window-height="845"
      id="namedview10"
      showgrid="false"
-     inkscape:zoom="2.1933327"
-     inkscape:cx="150.00001"
-     inkscape:cy="150.00004"
+     inkscape:zoom="0.5"
+     inkscape:cx="92.781182"
+     inkscape:cy="137.23409"
      inkscape:window-x="67"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g12"
+     inkscape:current-layer="svg8"
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
@@ -55,7 +55,7 @@ Created by potrace 1.15, written by Peter Selinger 2001-2017
 </rdf:RDF>
 </metadata>
   <g
-     transform="matrix(0.01757953,0,0,-0.01757813,0,225.00006)"
+     transform="matrix(0.02343937,0,0,-0.0234375,0,300)"
      id="g6"
      style="fill:#000000;stroke:none">
     <path
@@ -66,7 +66,7 @@ Created by potrace 1.15, written by Peter Selinger 2001-2017
   <g
      style="fill:#000000;fill-opacity:1"
      id="g10"
-     transform="matrix(0.75049532,0,0,-0.75049824,-443.34745,-367.58379)">
+     transform="matrix(1.0006604,0,0,-1.000664,-591.12991,-490.11156)">
     <g
        style="fill:#000000;fill-opacity:1"
        id="g12"
