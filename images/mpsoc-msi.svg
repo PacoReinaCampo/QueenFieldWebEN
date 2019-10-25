@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!-- Generator: Adobe Illustrator 19.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
@@ -13,16 +13,16 @@
    id="Capa_1"
    x="0px"
    y="0px"
-   width="400"
-   height="400"
-   viewBox="0 0 399.99999 399.99999"
+   viewBox="0 0 400 400"
    xml:space="preserve"
    sodipodi:docname="mpsoc-msi.svg"
+   width="400"
+   height="400"
    inkscape:version="0.92.4 5da689c313, 2019-01-14"><metadata
-   id="metadata45"><rdf:RDF><cc:Work
+   id="metadata43"><rdf:RDF><cc:Work
        rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
          rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
-   id="defs43" /><sodipodi:namedview
+   id="defs41" /><sodipodi:namedview
    pagecolor="#ffffff"
    bordercolor="#666666"
    borderopacity="1"
@@ -33,92 +33,88 @@
    inkscape:pageshadow="2"
    inkscape:window-width="1533"
    inkscape:window-height="845"
-   id="namedview41"
+   id="namedview39"
    showgrid="false"
    fit-margin-top="0"
    fit-margin-left="0"
    fit-margin-right="0"
    fit-margin-bottom="0"
-   inkscape:zoom="0.54922037"
-   inkscape:cx="214.85001"
-   inkscape:cy="214.84975"
+   inkscape:zoom="1.2189636"
+   inkscape:cx="256"
+   inkscape:cy="256"
    inkscape:window-x="67"
    inkscape:window-y="27"
    inkscape:window-maximized="1"
    inkscape:current-layer="Capa_1" />
 <g
-   id="g8"
-   transform="matrix(0.93088255,0,0,0.93088364,0,-4.6544182e-4)">
+   id="g6"
+   transform="scale(0.78125)">
 	<g
-   id="g6">
+   id="g4">
 		<path
-   d="m 233.137,234.36 -30.939,30.94 -37.799,-37.8 30.939,-30.938 c 6.856,-6.855 6.856,-18.012 0,-24.867 -6.855,-6.856 -18.011,-6.856 -24.867,0 l -30.94,30.939 -15.539,-15.538 c -4.12,-4.122 -10.801,-4.121 -14.921,0 L 86.625,209.54 c -4.12,4.12 -4.12,10.801 0,14.921 l 3.35,3.351 -50.72,50.718 c -2.361,2.362 -3.465,5.702 -2.976,9.005 l 7.816,52.813 -41.005,41.005 c -4.12,4.119 -4.12,10.8 0,14.92 l 30.337,30.336 c 4.12,4.121 10.8,4.121 14.92,0 l 41.006,-41.006 52.813,7.817 c 3.303,0.488 6.644,-0.614 9.004,-2.977 l 50.719,-50.719 3.35,3.35 c 4.12,4.119 10.801,4.119 14.921,0 l 22.445,-22.447 c 4.121,-4.117 4.121,-10.801 0,-14.92 l -15.539,-15.539 30.939,-30.939 c 6.855,-6.856 6.855,-18.012 0,-24.868 -6.857,-6.856 -18.011,-6.856 -24.868,-10e-4 z"
+   d="m 497,361 h -46 v -75 c 0,-8.291 -6.709,-15 -15,-15 H 271 v -60 h 105 c 8.291,0 15,-6.709 15,-15 V 15 C 391,6.709 384.291,0 376,0 H 136 c -8.291,0 -15,6.709 -15,15 v 181 c 0,8.291 6.709,15 15,15 h 105 v 60 H 76 c -8.291,0 -15,6.709 -15,15 v 75 H 15 c -8.291,0 -15,6.709 -15,15 v 121 c 0,8.291 6.709,15 15,15 h 121 c 8.291,0 15,-6.709 15,-15 V 376 c 0,-8.291 -6.709,-15 -15,-15 H 91 v -60 h 150 v 60 h -45 c -8.291,0 -15,6.709 -15,15 v 121 c 0,8.291 6.709,15 15,15 h 120 c 8.291,0 15,-6.709 15,-15 V 376 c 0,-8.291 -6.709,-15 -15,-15 h -45 v -60 h 150 v 60 h -45 c -8.291,0 -15,6.709 -15,15 v 121 c 0,8.291 6.709,15 15,15 h 121 c 8.291,0 15,-6.709 15,-15 V 376 c 0,-8.291 -6.709,-15 -15,-15 z M 196,61 h 120 c 8.291,0 15,6.709 15,15 0,8.291 -6.709,15 -15,15 H 196 c -8.291,0 -15,-6.709 -15,-15 0,-8.291 6.709,-15 15,-15 z m 0,90 c -8.291,0 -15,-6.709 -15,-15 0,-8.291 6.709,-15 15,-15 h 120 c 8.291,0 15,6.709 15,15 0,8.291 -6.709,15 -15,15 z"
    id="path2"
-   inkscape:connector-curvature="0" />
-		<path
-   d="M 426.609,33.428 396.273,3.089 c -4.119,-4.118 -10.801,-4.118 -14.92,0 l -41.006,41.007 -52.814,-7.817 c -3.303,-0.488 -6.643,0.615 -9.004,2.978 l -50.719,50.719 -3.35,-3.351 c -4.119,-4.119 -10.8,-4.121 -14.921,0 l -22.446,22.446 c -4.12,4.12 -4.12,10.8 0,14.921 l 118.613,118.613 c 4.119,4.119 10.801,4.119 14.922,0 l 22.445,-22.447 c 4.119,-4.12 4.119,-10.801 0,-14.92 l -3.35,-3.35 50.719,-50.72 c 2.361,-2.36 3.465,-5.699 2.977,-9.004 l -7.816,-52.812 41.006,-41.006 c 4.121,-4.119 4.121,-10.801 0,-14.918 z"
-   id="path4"
    inkscape:connector-curvature="0" />
 	</g>
 </g>
 <g
+   id="g8"
+   transform="translate(0,-112)">
+</g>
+<g
    id="g10"
-   transform="translate(0,-29.69975)">
+   transform="translate(0,-112)">
 </g>
 <g
    id="g12"
-   transform="translate(0,-29.69975)">
+   transform="translate(0,-112)">
 </g>
 <g
    id="g14"
-   transform="translate(0,-29.69975)">
+   transform="translate(0,-112)">
 </g>
 <g
    id="g16"
-   transform="translate(0,-29.69975)">
+   transform="translate(0,-112)">
 </g>
 <g
    id="g18"
-   transform="translate(0,-29.69975)">
+   transform="translate(0,-112)">
 </g>
 <g
    id="g20"
-   transform="translate(0,-29.69975)">
+   transform="translate(0,-112)">
 </g>
 <g
    id="g22"
-   transform="translate(0,-29.69975)">
+   transform="translate(0,-112)">
 </g>
 <g
    id="g24"
-   transform="translate(0,-29.69975)">
+   transform="translate(0,-112)">
 </g>
 <g
    id="g26"
-   transform="translate(0,-29.69975)">
+   transform="translate(0,-112)">
 </g>
 <g
    id="g28"
-   transform="translate(0,-29.69975)">
+   transform="translate(0,-112)">
 </g>
 <g
    id="g30"
-   transform="translate(0,-29.69975)">
+   transform="translate(0,-112)">
 </g>
 <g
    id="g32"
-   transform="translate(0,-29.69975)">
+   transform="translate(0,-112)">
 </g>
 <g
    id="g34"
-   transform="translate(0,-29.69975)">
+   transform="translate(0,-112)">
 </g>
 <g
    id="g36"
-   transform="translate(0,-29.69975)">
-</g>
-<g
-   id="g38"
-   transform="translate(0,-29.69975)">
+   transform="translate(0,-112)">
 </g>
 </svg>
