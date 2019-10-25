@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
@@ -7,64 +9,109 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   viewBox="0 0 400 400"
    version="1.1"
-   id="svg8"
-   sodipodi:docname="synthesizing.svg"
+   id="Capa_1"
+   x="0px"
+   y="0px"
    width="400"
    height="400"
-   inkscape:version="0.92.4 5da689c313, 2019-01-14">
-  <metadata
-     id="metadata14">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <defs
-     id="defs12" />
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1533"
-     inkscape:window-height="845"
-     id="namedview10"
-     showgrid="false"
-     fit-margin-top="0"
-     fit-margin-left="0"
-     fit-margin-right="0"
-     fit-margin-bottom="0"
-     inkscape:zoom="0.4609375"
-     inkscape:cx="256"
-     inkscape:cy="256"
-     inkscape:window-x="67"
-     inkscape:window-y="27"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg8" />
-  <path
-     d="M 2.8288e-7,-112 H 512 V 400 H 2.8288e-7 Z"
-     id="path2"
-     inkscape:connector-curvature="0"
-     style="fill:#7c2828;fill-opacity:0" />
-  <g
-     class=""
-     transform="matrix(0.86909288,0,0,0.83610992,-24.007822,-13.377759)"
-     id="g6">
-    <path
-       d="m 106.875,16 -4.656,2.688 -69.907,40.218 -4.688,2.688 v 91.281 l 4.688,2.688 64.468,37.093 -0.06,37.78 c -15.19,3.762 -26.564,17.585 -26.564,33.876 0,19.15 15.725,34.875 34.875,34.875 19.152,0 34.876,-15.724 34.876,-34.875 0,-15.55 -10.35,-28.863 -24.5,-33.312 l 0.063,-37.47 42.093,-24.218 79.437,47.094 v 58.625 l 4.688,2.69 34.093,19.624 v 0.25 h 0.47 l 22,12.656 -51.906,29.875 -48.188,-27.72 c 0.227,-1.367 0.375,-2.754 0.375,-4.186 0,-14.102 -11.43,-25.533 -25.53,-25.533 -14.1,0 -25.53,11.43 -25.53,25.532 0,14.1 11.43,25.53 25.53,25.53 5.86,0 11.254,-1.994 15.563,-5.313 L 237,356.313 v 23 l -59.53,-0.156 c -1.688,-6.323 -5.76,-12.032 -11.876,-15.562 -12.212,-7.05 -27.825,-2.837 -34.875,9.375 -7.052,12.21 -2.87,27.823 9.343,34.874 12.21,7.05 27.824,2.867 34.875,-9.344 0.124,-0.215 0.226,-0.44 0.343,-0.656 L 237,398 v 27.78 l -43.344,24.94 c -4.61,-4.55 -10.95,-7.376 -17.937,-7.376 -14.102,0 -25.532,11.43 -25.532,25.53 0,14.102 11.43,25.532 25.53,25.532 14.1,0 25.532,-11.43 25.532,-25.53 0,-0.316 -0.02,-0.626 -0.03,-0.938 l 44.968,-25.875 65.406,37.625 4.656,2.687 4.656,-2.688 69.906,-40.218 4.688,-2.69 V 345.5 l -4.688,-2.688 -56.562,-32.562 56.563,-32.53 4.687,-2.69 v -79.435 l 51.563,-29.657 c 4.26,3.185 9.552,5.093 15.28,5.093 14.1,0 25.532,-11.43 25.532,-25.53 0,-14.1 -11.43,-25.53 -25.53,-25.53 -14.102,0 -25.533,11.43 -25.533,25.53 0,1.553 0.14,3.055 0.407,4.53 l -50.158,28.876 -61.625,-35.47 -0.093,-55.186 c 14.1,-4.478 24.406,-17.767 24.406,-33.28 0,-19.152 -15.725,-34.876 -34.875,-34.876 -19.15,0 -34.873,15.723 -34.873,34.875 0,16.322 11.423,30.145 26.656,33.874 l 0.094,54.78 -42.594,24.532 -78.03,-45.97 V 61.596 L 181.436,58.908 146.814,39 146.284,38.062 145.752,38.375 111.532,18.687 106.876,16 Z m 0,21.563 20.188,11.624 -55.093,31.907 -4.657,2.687 v 5.376 l -0.157,64.906 -20.844,-12 V 72.406 l 60.563,-34.844 z m 208,1.218 c 9.05,0 16.188,7.138 16.188,16.19 0,9.05 -7.137,16.186 -16.188,16.186 -9.05,0 -16.188,-7.137 -16.188,-16.187 0,-9.052 7.137,-16.19 16.188,-16.19 z M 145.812,59.97 167.437,72.406 v 59.25 l 64.751,39.344 13.344,7.844 -0.218,0.125 18.25,11.06 52.688,-30.31 20.188,11.624 -55.813,32.312 -4.656,2.688 v 5.375 l -0.126,64.093 -20.156,-11.594 v -57.095 l -97.97,-59.47 -50.843,29.25 -21.03,-12.093 0.155,-70.25 59.813,-34.593 z m -20.218,38.968 c -11.512,0 -20.656,9.113 -20.656,20.624 0,11.512 9.144,20.657 20.656,20.657 11.512,0 20.625,-9.146 20.625,-20.657 0,-11.514 -9.114,-20.626 -20.626,-20.626 z m 229.53,83.156 21.688,12.47 v 69.655 l -60.562,34.841 -21.75,-12.53 0.156,-69.407 60.47,-35.03 z m -250.093,66.03 c 9.052,0 16.19,7.138 16.19,16.19 0,9.05 -7.138,16.186 -16.19,16.186 -9.05,0 -16.186,-7.137 -16.186,-16.188 0,-9.05 7.137,-16.187 16.187,-16.187 z m 211.22,73.345 60.563,34.874 v 69.625 L 316.25,460.81 255.687,425.967 V 356.31 l 60.563,-34.843 z m -0.406,31.31 c -21.558,0 -38.813,17.287 -38.813,38.845 0,21.558 17.256,38.844 38.814,38.844 21.558,0 38.844,-17.287 38.844,-38.845 0,-21.56 -17.286,-38.844 -38.844,-38.844 z"
-       id="path4"
-       inkscape:connector-curvature="0"
-       style="fill:#000000;fill-opacity:1" />
-  </g>
+   viewBox="0 0 399.99999 399.99999"
+   xml:space="preserve"
+   sodipodi:docname="beaker.svg"
+   inkscape:version="0.92.4 5da689c313, 2019-01-14"><metadata
+   id="metadata41"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+   id="defs39" /><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="1533"
+   inkscape:window-height="845"
+   id="namedview37"
+   showgrid="false"
+   fit-margin-top="0"
+   fit-margin-left="0"
+   fit-margin-right="0"
+   fit-margin-bottom="0"
+   inkscape:zoom="0.53815421"
+   inkscape:cx="219.26801"
+   inkscape:cy="219.26801"
+   inkscape:window-x="67"
+   inkscape:window-y="27"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="Capa_1" />
+<g
+   id="g4"
+   transform="matrix(0.96005852,0,0,0.9121258,-10.509657,0)">
+	<path
+   d="M 417.698,376.865 274.08,150.467 V 36.545 h 18.274 c 4.948,0 9.236,-1.812 12.847,-5.428 3.621,-3.614 5.428,-7.898 5.428,-12.847 0,-4.949 -1.807,-9.231 -5.428,-12.847 C 301.591,1.807 297.303,0 292.354,0 H 146.177 c -4.952,0 -9.234,1.807 -12.85,5.424 -3.617,3.615 -5.424,7.898 -5.424,12.847 0,4.949 1.807,9.233 5.424,12.847 3.619,3.616 7.902,5.428 12.85,5.428 h 18.271 V 150.464 L 20.838,376.862 c -10.656,16.946 -12.703,31.463 -6.136,43.543 6.567,12.087 19.939,18.131 40.113,18.131 h 328.911 c 20.17,0 33.54,-6.044 40.104,-18.131 6.571,-12.08 4.524,-26.593 -6.132,-43.54 z m -300.071,-84.51 77.658,-122.481 5.709,-8.853 V 150.46 36.542 h 36.541 v 113.918 10.561 l 5.708,8.853 77.662,122.481 z"
+   id="path2"
+   inkscape:connector-curvature="0" />
+</g>
+<g
+   id="g6"
+   transform="translate(3.2305276e-7,-38.536011)">
+</g>
+<g
+   id="g8"
+   transform="translate(3.2305276e-7,-38.536011)">
+</g>
+<g
+   id="g10"
+   transform="translate(3.2305276e-7,-38.536011)">
+</g>
+<g
+   id="g12"
+   transform="translate(3.2305276e-7,-38.536011)">
+</g>
+<g
+   id="g14"
+   transform="translate(3.2305276e-7,-38.536011)">
+</g>
+<g
+   id="g16"
+   transform="translate(3.2305276e-7,-38.536011)">
+</g>
+<g
+   id="g18"
+   transform="translate(3.2305276e-7,-38.536011)">
+</g>
+<g
+   id="g20"
+   transform="translate(3.2305276e-7,-38.536011)">
+</g>
+<g
+   id="g22"
+   transform="translate(3.2305276e-7,-38.536011)">
+</g>
+<g
+   id="g24"
+   transform="translate(3.2305276e-7,-38.536011)">
+</g>
+<g
+   id="g26"
+   transform="translate(3.2305276e-7,-38.536011)">
+</g>
+<g
+   id="g28"
+   transform="translate(3.2305276e-7,-38.536011)">
+</g>
+<g
+   id="g30"
+   transform="translate(3.2305276e-7,-38.536011)">
+</g>
+<g
+   id="g32"
+   transform="translate(3.2305276e-7,-38.536011)">
+</g>
+<g
+   id="g34"
+   transform="translate(3.2305276e-7,-38.536011)">
+</g>
 </svg>
