@@ -1,5 +1,7 @@
 **QueenField Electronics Web**
 
+Open Source Hardware, Open Source Tools and Open Standard Cells to develop a Multi-Processor System on Chip
+
 A Multi-Processor System on Chip (MPSoC) is a System on Chip (SoC) which includes multiple Processing Units (PU). As such, it is a multi-core System-on-Chip. All PUs are linked to each other by a Network on Chip (NoC). These architectures meet the performance needs of multimedia applications, telecommunication architectures or network security.
 
 
