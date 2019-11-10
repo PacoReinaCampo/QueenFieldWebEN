@@ -6,6 +6,7 @@ A Multi-Processor System on Chip (MPSoC) is a System on Chip (SoC) which include
 
 
 **MIT License**
+
 Copyright (c) 2019-202X by the author(s)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
