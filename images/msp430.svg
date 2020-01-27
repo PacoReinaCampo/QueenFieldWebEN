@@ -26,8 +26,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.7"
-     inkscape:cx="109.3751"
-     inkscape:cy="183.8674"
+     inkscape:cx="209.96945"
+     inkscape:cy="225.31638"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -67,20 +67,20 @@
        style="stroke-width:0.26458332" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36.59888458px;line-height:20;font-family:'ARIAL narrow';-inkscape-font-specification:'ARIAL narrow';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.43114471"
-       x="5.5473194"
-       y="224.68739"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32.91359329px;line-height:20;font-family:'ARIAL narrow';-inkscape-font-specification:'ARIAL narrow';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.08564901"
+       x="17.860336"
+       y="165.0831"
        id="text1390"
-       transform="scale(0.87491505,1.1429681)"><tspan
+       transform="scale(0.62725337,1.5942521)"><tspan
          sodipodi:role="line"
          id="tspan1388"
-         x="5.5473194"
-         y="224.68739"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans Mono CJK JP';-inkscape-font-specification:'Noto Sans Mono CJK JP';fill:#ffffff;stroke-width:3.43114471">MSP430</tspan><tspan
+         x="17.860336"
+         y="165.0831"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#ffffff;stroke-width:3.08564901">MSP430</tspan><tspan
          sodipodi:role="line"
-         x="5.5473194"
-         y="956.66504"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'ARIAL narrow';-inkscape-font-specification:'ARIAL narrow';fill:#ffffff;stroke-width:3.43114471"
+         x="17.860336"
+         y="823.88123"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'ARIAL narrow';-inkscape-font-specification:'ARIAL narrow';fill:#ffffff;stroke-width:3.08564901"
          id="tspan1392" /></text>
     <flowRoot
        xml:space="preserve"
@@ -104,5 +104,15 @@
            height="236.3757"
            x="-96.974648"
            y="799.27087" /></flowRegion><flowPara
-         id="flowPara1410" /></flowRoot>  </g>
+         id="flowPara1410" /></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot824"
+       style="fill:black;fill-opacity:1;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:10.66666667px;line-height:20;letter-spacing:0px;word-spacing:0px"><flowRegion
+         id="flowRegion826"><rect
+           id="rect828"
+           width="1016.2134"
+           height="430.32498"
+           x="-400.02042"
+           y="1.9998976" /></flowRegion><flowPara
+         id="flowPara830" /></flowRoot>  </g>
 </svg>
