@@ -26,8 +26,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.7"
-     inkscape:cx="209.96945"
-     inkscape:cy="225.31638"
+     inkscape:cx="184.81407"
+     inkscape:cy="404.65883"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -67,20 +67,20 @@
        style="stroke-width:0.26458332" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32.91359329px;line-height:20;font-family:'ARIAL narrow';-inkscape-font-specification:'ARIAL narrow';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.08564901"
-       x="17.860336"
-       y="165.0831"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30.2758255px;line-height:20;font-family:'ARIAL narrow';-inkscape-font-specification:'ARIAL narrow';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2.83835816"
+       x="19.956732"
+       y="151.85297"
        id="text1390"
-       transform="scale(0.62725337,1.5942521)"><tspan
+       transform="scale(0.57698388,1.7331507)"><tspan
          sodipodi:role="line"
          id="tspan1388"
-         x="17.860336"
-         y="165.0831"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#ffffff;stroke-width:3.08564901">MSP430</tspan><tspan
+         x="19.956732"
+         y="151.85297"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#ffffff;stroke-width:2.83835816">MSP430™</tspan><tspan
          sodipodi:role="line"
-         x="17.860336"
-         y="823.88123"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'ARIAL narrow';-inkscape-font-specification:'ARIAL narrow';fill:#ffffff;stroke-width:3.08564901"
+         x="19.956732"
+         y="757.85358"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'ARIAL narrow';-inkscape-font-specification:'ARIAL narrow';fill:#ffffff;stroke-width:2.83835816"
          id="tspan1392" /></text>
     <flowRoot
        xml:space="preserve"
