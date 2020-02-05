@@ -45,9 +45,9 @@
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
-     inkscape:zoom="0.32076348"
-     inkscape:cx="207.90369"
-     inkscape:cy="673.45136"
+     inkscape:zoom="0.90725613"
+     inkscape:cx="201.47249"
+     inkscape:cy="1641.9971"
      inkscape:window-x="67"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
@@ -58,7 +58,7 @@
      id="g304"
      transform="translate(0,-205.90058)">
     <rect
-       style="fill:#ffe680;fill-opacity:1;stroke-width:25.63414192"
+       style="fill:#ffcc00;fill-opacity:1;stroke-width:25.63414192"
        id="rect1258"
        width="450"
        height="989.91846"
@@ -67,7 +67,7 @@
        rx="0"
        ry="0" />
     <rect
-       style="fill:#ffcc00;fill-opacity:1;stroke-width:8.88889217"
+       style="fill:#ffe680;fill-opacity:1;stroke-width:8.88889217"
        id="rect1266"
        width="420"
        height="569.953"
@@ -296,6 +296,7 @@
 
 
 
+
 SYSTEM LEVEL</xhtml:div>
             </xhtml:div>
           </xhtml:div>
@@ -353,6 +354,7 @@ SYSTEM LEVEL</xhtml:div>
                style="box-sizing: border-box; font-size: 0; text-align: center; ">
               <xhtml:div
                  style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">MODELING <xhtml:br />
+
 
 
 
@@ -2432,211 +2434,5 @@ SYSTEM LEVEL</xhtml:div>
          transform="translate(0,45.97299)"
          id="g34-12" />
     </g>
-    <g
-       transform="matrix(0.78218295,0,0,0.90096434,-124.83474,495.00431)"
-       id="g42-3">
-      <switch
-         id="switch40-6">
-        <foreignObject
-           style="overflow: visible; text-align: left;"
-           pointer-events="none"
-           width="100%"
-           height="100%"
-           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
-          <xhtml:div
-             style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 118px; height: 1px; padding-top: 740px; margin-left: 168px;">
-            <xhtml:div
-               style="box-sizing: border-box; font-size: 0; text-align: center; ">
-              <xhtml:div
-                 style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">SIMULATING SYSTEM LEVEL</xhtml:div>
-            </xhtml:div>
-          </xhtml:div>
-        </foreignObject>
-        <text
-           x="227"
-           y="744"
-           font-size="12px"
-           id="text38-7"
-           style="font-size:12px;font-family:Helvetica;text-anchor:middle;fill:#000000">
-          <tspan
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Helvetica;-inkscape-font-specification:'Helvetica Bold'"
-             id="tspan1257-5">SYSTEM LEVEL</tspan>
-          <tspan
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Helvetica;-inkscape-font-specification:'Helvetica Bold'"
-             id="tspan1300" />
-          <tspan
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Helvetica;-inkscape-font-specification:'Helvetica Bold'"
-             id="tspan1302" />
-          <tspan
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Helvetica;-inkscape-font-specification:'Helvetica Bold'"
-             id="tspan1304" />
-          <tspan
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Helvetica;-inkscape-font-specification:'Helvetica Bold'"
-             id="tspan1306" />
-        </text>
-      </switch>
-    </g>
-    <g
-       transform="matrix(0.78218295,0,0,0.90096434,230.91593,512.8004)"
-       id="g42-3-3">
-      <switch
-         id="switch40-6-5">
-        <foreignObject
-           style="overflow: visible; text-align: left;"
-           pointer-events="none"
-           width="100%"
-           height="100%"
-           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
-          <xhtml:div
-             style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 118px; height: 1px; padding-top: 740px; margin-left: 168px;">
-            <xhtml:div
-               style="box-sizing: border-box; font-size: 0; text-align: center; ">
-              <xhtml:div
-                 style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">SIMULATING SYSTEM LEVEL</xhtml:div>
-            </xhtml:div>
-          </xhtml:div>
-        </foreignObject>
-        <text
-           x="-212.21423"
-           y="740.89563"
-           font-size="12px"
-           id="text38-7-6"
-           style="font-size:12px;font-family:Helvetica;text-anchor:middle;fill:#000000">
-          <tspan
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Helvetica;-inkscape-font-specification:'Helvetica Bold'"
-             id="tspan1257-5-2">BEHAVIORAL LEVEL</tspan>
-          <tspan
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Helvetica;-inkscape-font-specification:'Helvetica Bold'"
-             id="tspan1300-9" />
-          <tspan
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Helvetica;-inkscape-font-specification:'Helvetica Bold'"
-             id="tspan1302-1" />
-          <tspan
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Helvetica;-inkscape-font-specification:'Helvetica Bold'"
-             id="tspan1304-2" />
-          <tspan
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Helvetica;-inkscape-font-specification:'Helvetica Bold'"
-             id="tspan1306-7" />
-        </text>
-        <flowRoot
-           xml:space="preserve"
-           id="flowRoot1352"
-           style="font-style:normal;font-weight:normal;font-size:10.66666698px;line-height:20;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"><flowRegion
-             id="flowRegion1354"><rect
-               id="rect1356"
-               width="29.832737"
-               height="11.65097"
-               x="36.999996"
-               y="123.34904" /></flowRegion><flowPara
-             id="flowPara1358" /></flowRoot>      </switch>
-    </g>
-    <g
-       transform="matrix(0.78218295,0,0,0.90096434,191.4593,-370.15243)"
-       id="g42-3-0">
-      <switch
-         id="switch40-6-9">
-        <foreignObject
-           style="overflow: visible; text-align: left;"
-           pointer-events="none"
-           width="100%"
-           height="100%"
-           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
-          <xhtml:div
-             style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 118px; height: 1px; padding-top: 740px; margin-left: 168px;">
-            <xhtml:div
-               style="box-sizing: border-box; font-size: 0; text-align: center; ">
-              <xhtml:div
-                 style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">SIMULATING SYSTEM LEVEL</xhtml:div>
-            </xhtml:div>
-          </xhtml:div>
-        </foreignObject>
-        <text
-           x="211.03893"
-           y="730.38031"
-           font-size="12px"
-           id="text38-7-3"
-           style="font-size:12px;font-family:Helvetica;text-anchor:middle;fill:#000000">
-          <tspan
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Helvetica;-inkscape-font-specification:'Helvetica Bold'"
-             id="tspan1257-5-6">REGISTER TRANSFER LEVEL</tspan>
-          <tspan
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Helvetica;-inkscape-font-specification:'Helvetica Bold'"
-             id="tspan1300-0" />
-          <tspan
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Helvetica;-inkscape-font-specification:'Helvetica Bold'"
-             id="tspan1302-6" />
-          <tspan
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Helvetica;-inkscape-font-specification:'Helvetica Bold'"
-             id="tspan1304-26" />
-          <tspan
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Helvetica;-inkscape-font-specification:'Helvetica Bold'"
-             id="tspan1306-1" />
-        </text>
-      </switch>
-    </g>
-    <g
-       transform="matrix(0.78218295,0,0,0.90096434,538.40704,1382.0533)"
-       id="g42-3-3-8">
-      <switch
-         id="switch40-6-5-7">
-        <foreignObject
-           style="overflow: visible; text-align: left;"
-           pointer-events="none"
-           width="100%"
-           height="100%"
-           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
-          <xhtml:div
-             style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 118px; height: 1px; padding-top: 740px; margin-left: 168px;">
-            <xhtml:div
-               style="box-sizing: border-box; font-size: 0; text-align: center; ">
-              <xhtml:div
-                 style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">SIMULATING SYSTEM LEVEL</xhtml:div>
-            </xhtml:div>
-          </xhtml:div>
-        </foreignObject>
-        <text
-           x="-212.21423"
-           y="740.89563"
-           font-size="12px"
-           id="text38-7-6-9"
-           style="font-size:12px;font-family:Helvetica;text-anchor:middle;fill:#000000">
-          <tspan
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Helvetica;-inkscape-font-specification:'Helvetica Bold'"
-             id="tspan1257-5-2-2">PHYSICAL GATE LEVEL</tspan>
-        </text>
-        <flowRoot
-           xml:space="preserve"
-           id="flowRoot1352-5"
-           style="font-style:normal;font-weight:normal;font-size:10.66666698px;line-height:20;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"><flowRegion
-             id="flowRegion1354-9"><rect
-               id="rect1356-2"
-               width="29.832737"
-               height="11.65097"
-               x="36.999996"
-               y="123.34904" /></flowRegion><flowPara
-             id="flowPara1358-2" /></flowRoot>      </switch>
-    </g>
-    <text
-       transform="scale(0.93175206,1.0732469)"
-       x="378.17035"
-       y="1924.2983"
-       font-size="12px"
-       id="text38-7-6-9-8"
-       style="font-size:10.07370567px;font-family:Helvetica;text-anchor:middle;fill:#000000;stroke-width:0.83947545">
-      <tspan
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Helvetica;-inkscape-font-specification:'Helvetica Bold';stroke-width:0.83947545"
-         id="tspan1257-5-2-2-9">SWITCH LEVEL</tspan>
-    </text>
-    <text
-       transform="scale(0.93175206,1.0732469)"
-       x="395.9592"
-       y="1895.7194"
-       font-size="12px"
-       id="text38-7-6-9-7"
-       style="font-size:10.07370567px;font-family:Helvetica;text-anchor:middle;fill:#000000;stroke-width:0.83947545">
-      <tspan
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Helvetica;-inkscape-font-specification:'Helvetica Bold';stroke-width:0.83947545"
-         id="tspan1257-5-2-2-3">LOGICAL GATE LEVEL</tspan>
-    </text>
   </g>
 </svg>
