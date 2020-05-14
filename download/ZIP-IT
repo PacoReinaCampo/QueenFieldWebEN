@@ -1,3 +1,5 @@
+rm -rf *.zip
+
 zip -r -q gnudebian.zip gnudebian
 zip -r -q gnuhurd.zip gnuhurd
 zip -r -q gnumach.zip gnumach
