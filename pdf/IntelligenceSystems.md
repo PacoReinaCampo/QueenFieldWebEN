@@ -2,6 +2,8 @@
 
 A Neural Turing Machine (NTM) is a recurrent neural network model. NTMs combine the fuzzy pattern matching capabilities of neural networks with the algorithmic power of programmable computers. A NTM has a neural network controller coupled to external memory resources, which it interacts with through attentional mechanisms. The memory interactions are differentiable end-to-end, making it possible to optimize them using gradient descent.
 
+# OVERVIEW
+
 ## 1. INTRODUCTION
 
 ## 2. PROJECTS
@@ -23,5 +25,9 @@ A Neural Turing Machine (NTM) is a recurrent neural network model. NTMs combine 
 #### 2.2.3. MPSoC-NTM
 
 ## 3. WORKFLOW
+
+### 3.1. Front-End Tool
+
+### 3.2. Back-End Tool
 
 ## 4. CONCLUSION
