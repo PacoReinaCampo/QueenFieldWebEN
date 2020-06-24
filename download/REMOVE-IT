@@ -14,7 +14,10 @@ rm -rf MPSoC-FinTech/.gitmodules
 rm -rf MPSoC-FinTech/mpsoc-ntm/.git
 rm -rf MPSoC-FinTech/mpsoc-ntm/.gitmodules
 rm -rf MPSoC-FinTech/mpsoc-ntm/gnudebian-distribution/.git
+rm -rf MPSoC-FinTech/mpsoc-ntm/gnudebian-distribution/.gitmodules
 rm -rf MPSoC-FinTech/mpsoc-ntm/gnudebian-distribution/gnuhurd-os/.git
+rm -rf MPSoC-FinTech/mpsoc-ntm/gnudebian-distribution/gnuhurd-os/.gitmodules
+rm -rf MPSoC-FinTech/mpsoc-ntm/gnudebian-distribution/gnuhurd-os/gnumach-kernel/.git
 rm -rf MPSoC-FinTech/mpsoc-ntm/mpsoc-uvm/.git
 rm -rf MPSoC-FinTech/mpsoc-ntm/mpsoc-uvm/.gitmodules
 rm -rf MPSoC-FinTech/mpsoc-ntm/mpsoc-uvm/mpsoc-msp430/.git
@@ -251,6 +254,7 @@ rm -rf SoC-FinTech/.gitmodules
 rm -rf SoC-FinTech/soc-ntm/.git
 rm -rf SoC-FinTech/soc-ntm/.gitmodules
 rm -rf SoC-FinTech/soc-ntm/gnuhurd-os/.git
+rm -rf SoC-FinTech/soc-ntm/gnuhurd-os/.gitmodules
 rm -rf SoC-FinTech/soc-ntm/gnuhurd-os/gnumach-kernel/.git
 rm -rf SoC-FinTech/soc-ntm/soc-uvm/.git
 rm -rf SoC-FinTech/soc-ntm/soc-uvm/.gitmodules
