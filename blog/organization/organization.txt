@@ -1,7 +1,7 @@
 .
 └── QueenFieldWeb
     ├── MPSoC-FinTech (finance)
-    │   └── MPSoC-FinTech (intelligence)
+    │   └── MPSoC-NTM (intelligence)
     │       ├── gnudebian (software)
     │       │   └── gnuhurd
     │       │       └── gnumach
@@ -46,7 +46,7 @@
     │                   ├── MPSoC-UART
     │                   └── PU-RISCV
     ├── SoC-FinTech (finance)
-    │   └── SoC-FinTech (intelligence)
+    │   └── SoC-NTM (intelligence)
     │       ├── gnuhurd (software)
     │       │   └── gnumach
     │       └── SoC-UVM (hardware)
@@ -81,7 +81,7 @@
     │               ├── MPSoC-UART
     │               └── PU-RISCV
     └── PU-FinTech (finance)
-        └── PU-FinTech (intelligence)
+        └── PU-NTM (intelligence)
             ├── gnumach (software)
             └── PU-UVM (hardware)
                 ├── PU-MSP430
