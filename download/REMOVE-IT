@@ -390,6 +390,7 @@ rm -rf MPSoC-NTM/mpsoc-uvm/mpsoc-or1k/soc/dma/.git
 rm -rf MPSoC-NTM/mpsoc-uvm/mpsoc-or1k/soc/gpio/.git
 rm -rf MPSoC-NTM/mpsoc-uvm/mpsoc-or1k/soc/mpi/.git
 rm -rf MPSoC-NTM/mpsoc-uvm/mpsoc-or1k/soc/mpram/.git
+rm -rf MPSoC-NTM/mpsoc-uvm/mpsoc-or1k/soc/msi/.git
 rm -rf MPSoC-NTM/mpsoc-uvm/mpsoc-or1k/soc/noc/.git
 rm -rf MPSoC-NTM/mpsoc-uvm/mpsoc-or1k/soc/pu/.git
 rm -rf MPSoC-NTM/mpsoc-uvm/mpsoc-or1k/soc/pu/.gitmodules
@@ -422,6 +423,8 @@ rm -rf MPSoC-NTM/mpsoc-uvm/mpsoc-or1k/soc/software/os/gzll-kernel/m4/.gitignore
 rm -rf MPSoC-NTM/mpsoc-uvm/mpsoc-or1k/soc/software/os/gzll-libs/.gitignore
 rm -rf MPSoC-NTM/mpsoc-uvm/mpsoc-or1k/soc/software/os/gzll-libs/build-aux/.gitignore
 rm -rf MPSoC-NTM/mpsoc-uvm/mpsoc-or1k/soc/software/os/gzll-libs/m4/.gitignore
+rm -rf MPSoC-NTM/mpsoc-uvm/mpsoc-or1k/soc/spram/.git
+rm -rf MPSoC-NTM/mpsoc-uvm/mpsoc-or1k/soc/uart/.git
 rm -rf MPSoC-NTM/mpsoc-uvm/mpsoc-or1k/software/baremetal/baremetal-libs/.gitignore
 rm -rf MPSoC-NTM/mpsoc-uvm/mpsoc-or1k/software/baremetal/baremetal-libs/m4/.gitignore
 rm -rf MPSoC-NTM/mpsoc-uvm/mpsoc-or1k/software/baremetal/bootrom/.gitignore
